@@ -11,4 +11,8 @@ Example,
 This gives the response - a shortened url.
 
 
+# Database used is mongodb
+Need to have necessary jars in your classpath of the project.
+
+
 
